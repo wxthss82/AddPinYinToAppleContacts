@@ -24,3 +24,4 @@ X-PHONETIC-FIRST-NAME:fàng
 
 
 方法：
+详见：http://mp.weixin.qq.com/s/YaO8kZ3fpF_qlkUtRz051Q
