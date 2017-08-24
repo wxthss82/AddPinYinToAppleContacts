@@ -8,20 +8,12 @@
 LPin.txt （LastNamePinYin）格式：
 
 X-PHONETIC-LAST-NAME:Ān 
-X-PHONETIC-LAST-NAME:bào 
-X-PHONETIC-LAST-NAME:cáo 
-X-PHONETIC-LAST-NAME:cháng 
-X-PHONETIC-LAST-NAME:chén 
-X-PHONETIC-LAST-NAME:chén 
+每行一个
 
 FPin.txt （FirstNamePinYin）格式：
 
 X-PHONETIC-FIRST-NAME:yī fán 
-X-PHONETIC-FIRST-NAME:yǐng 
-X-PHONETIC-FIRST-NAME:zhé 
-X-PHONETIC-FIRST-NAME:zōng 
-X-PHONETIC-FIRST-NAME:fàng 
-
+每行一个
 
 方法：
 详见：http://mp.weixin.qq.com/s/YaO8kZ3fpF_qlkUtRz051Q
